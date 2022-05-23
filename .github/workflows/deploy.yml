@@ -12,7 +12,7 @@ env:
  
   # specify your preferred region
   REGION: eastus
-
+ 
   SILO_DOCKER_FILE_PATH: Silo/Dockerfile
   SILO_IMAGE_NAME: silo
 
